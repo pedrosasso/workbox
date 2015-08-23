@@ -1,0 +1,8 @@
+{
+  "name": "Workbox Web Application",
+  "private": true,
+  "dependencies": {
+    "jquery": "2.1.4",
+    "angularjs": "^1.4.4"
+  }
+}
